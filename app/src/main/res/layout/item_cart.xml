@@ -38,7 +38,7 @@
 
             <Button
                 android:id="@+id/btnAdd"
-                android:text="ADD"
+                android:text="Remove"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"/>
         </LinearLayout>
