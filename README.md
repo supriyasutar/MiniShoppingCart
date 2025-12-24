@@ -57,7 +57,4 @@ The goal of this project is to demonstrate:
 - DataBinding
 - RecyclerView
 
----
-
-## 📂 Project Structure
 
